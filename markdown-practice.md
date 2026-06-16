@@ -11,9 +11,9 @@ Links
 https://www.dazn.com/en-KE/sport/Sport:289u5typ3vp4ifwh5thalohmq
 
 Lists
--Learning more about html and css.
--Networking with other students for more data.
--Understanding and to engage more on data science and AI.
+- Learning more about html and css.
+- Networking with other students for more data.
+- Understanding and to engage more on data science and AI.
 
 Table
 | Name    | Role                      | Link                              |
@@ -22,14 +22,14 @@ Table
 | VS Code | Source code editing       | https://code.visualstudio.com/    |
 
 Task List
--[] signing to Github
--[] Creating an account and repository
--[] Doing tasks
+- [ ] signing to Github
+- [ ] Creating an account and repository
+- [ ] Doing tasks
 
 Code block
 ```python
-print("Hello, world!)
+print("Hello, world!")
 ```
 
 Blockquote
-Time is but a stupid illusion.
+> Time is but a stupid illusion.
