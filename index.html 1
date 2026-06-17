@@ -8,7 +8,10 @@
 <body>
         <h1> Joseph Nderitu
         <p> My hobbies include swimming, travelling and adventures <br> I am a programmer and an aeronautical engineer
+        <img src="https://cdn.britannica.com/35/238335-050-2CB2EB8A/Lionel-Messi-Argentina-Netherlands-World-Cup-Qatar-2022.jpg">
+          <p> My favorite website:
           <br> https://www.dazn.com/
+        <p> Contact me: <a href="mailto:wambugujoseph467@gmail.com"> 
        <br> wambugujoseph467@gmail.com
 </body>
 </html>
